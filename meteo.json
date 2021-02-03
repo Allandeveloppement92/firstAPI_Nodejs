@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "ville":"Paris",
+        "celcius": "10",
+        "kelvin": "283.15",
+        "humidite": "70"
+    },
+    {
+        "id": 2,
+        "ville":"Madrid",
+        "celcius": "18",
+        "kelvin": "291.15",
+        "humidite": "50"
+    },
+    {
+        "id": 3,
+        "ville":"Dubaï",
+        "celcius": "25",
+        "kelvin": "298.15",
+        "humidite": "10"
+    },
+    {
+        "id": 4,
+        "ville":"Toronto",
+        "celcius": "-5",
+        "kelvin": "268.15",
+        "humidite": "80"
+    },
+    {
+        "id": 5,
+        "ville":"Bamako",
+        "celcius": "35",
+        "kelvin": "308.15",
+        "humidite": "10"
+    }
+]

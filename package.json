@@ -1,0 +1,24 @@
+{
+  "name": "node-express-api-sample",
+  "version": "1.0.0",
+  "description": "Une simple Api en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Allandeveloppement92/firstAPI_Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allandeveloppement92/firstAPI_Nodejs/issues"
+  },
+  "homepage": "https://github.com/Allandeveloppement92/firstAPI_Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
+
+
